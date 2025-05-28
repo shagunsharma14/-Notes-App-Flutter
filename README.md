@@ -27,11 +27,6 @@ Fork or clone this repository or download the code and navigate to the enclosing
 flutter run
 ```
 
-## Dependencies
-
-- canton_design_system: [Link to repository](https://github.com/31Carlton7/canton_design_system)
-- For the full list, see [dependencies](https://github.com/31Carlton7/flutter_notes_app/blob/master/pubspec.yaml)
-
 ## Screenshots
 <table> 
   <th>Light Mode</th>
